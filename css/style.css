@@ -1,5 +1,14 @@
 * {
   box-sizing: border-box;
 }
+
+.box {
+  border: 5px solid black;
+  width: 400px;
+}
+
 .inner {
+  background-color: rebeccapurple;
+  color: white;
+  border-radius: 5px;
 }
